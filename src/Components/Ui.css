@@ -1,0 +1,45 @@
+.ui_inputfield {
+  margin-top: 0 !important;
+  background-color: #3a4655;
+  border: none !important;
+}
+
+.ui_inputfield input {
+  text-align: right;
+  height: 5rem;
+  color: white;
+  font-size: 2rem;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0;
+}
+
+.ui_btngroup {
+  margin-top: 0 !important;
+  height: 100px;
+  orientation: vertical;
+  background-color: #425062;
+  color: white;
+  border-radius: 0 !important;
+}
+
+.typography {
+  background-color: #3a4655;
+  color: #717a86;
+}
+
+.ui_btngroup button {
+  color: white;
+  border: 2px solid #3c4857;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.ui_btngroup button:hover {
+  border: none !important;
+}
