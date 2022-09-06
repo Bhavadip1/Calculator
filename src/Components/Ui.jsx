@@ -9,8 +9,6 @@ import "./Ui.css";
 import { color } from "@mui/system";
 
 const Ui = () => {
-  const bhavadip = () => {};
-
   return (
     <div className="Ui">
       <Grid
